@@ -1,8 +1,7 @@
 export default {
   global: {
-    componenteFormativo:
-      'Fundamentos del enfoque Desarrollo a Escala Humana (DEH)',
-    descripcionCurso:
+    Name: 'Fundamentos del enfoque Desarrollo a Escala Humana (DEH)',
+    Description:
       'Este componente tiene como objetivo que los aprendices identifiquen los fundamentos del enfoque de Desarrollo a Escala Humana (DEH), como base de las competencias socioemocionales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
@@ -294,7 +293,7 @@ export default {
         {
           nombre: 'Martha Cecilia Arcila Aponte',
           cargo: 'Profesional especializada',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'GIT Pilotaje y Escalamiento de Proyectos',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',

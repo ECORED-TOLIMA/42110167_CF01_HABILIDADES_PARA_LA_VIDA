@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Necesidades axiológicas y existenciales
+      h1 Satisfactores: tipos y características
 
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12 

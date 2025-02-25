@@ -9,8 +9,12 @@
   </template>
 
 <script>
+import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue'
 export default {
   name: 'ActividadDidactica',
+  components: {
+    Actividad,
+  },
   data: () => ({
     cuestionario: {
       tema: 'Dimensiones del ser humano y satisfactores en la vida cotidiana',
