@@ -42,8 +42,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 1.</b> <i>Necesidades humanas</i>
         figure
-          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema2/fig-1a.svg', alt='Figura que relaciona lo que representan las necesidades humanas y explica a partir de un ejemplo su aplicación.')  
-          img.d-block.d-lg-none(src='@/assets/curso/temas/tema2/fig-1b.svg', alt='Figura que relaciona lo que representan las necesidades humanas y explica a partir de un ejemplo su aplicación.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema2/fig-1a.svg', alt='Imagen que relaciona lo que representan las necesidades humanas y explica a partir de un ejemplo su aplicación.')  
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema2/fig-1b.svg', alt='Imagen que relaciona lo que representan las necesidades humanas y explica a partir de un ejemplo su aplicación.') 
       
 
 

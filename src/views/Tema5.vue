@@ -27,7 +27,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 2.</b> <i>Jerarquía necesidades humanas</i>
         figure
-          img(src='@/assets/curso/temas/tema5/fig-2a.svg', alt='Figura que relaciona una matriz que representa de manera jerárquica las necesidades humanas, como son competencia, habilidad, destreza y conducta.')  
+          img(src='@/assets/curso/temas/tema5/fig-2a.svg', alt='Imagen que relaciona una matriz que representa de manera jerárquica las necesidades humanas, como son competencia, habilidad, destreza y conducta.')  
           figcaption Nota. Adaptado de Raciti (2016)
 
 
