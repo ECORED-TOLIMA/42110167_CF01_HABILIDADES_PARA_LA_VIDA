@@ -6,44 +6,82 @@
       .titulo-principal__numero
         span 2
       h1 Enfoque de Desarrollo a Escala Humana (DEH)
-    
-    .bloque-texto-g.bloque-texto-g--inverso.color-primario.mb-5.p-3.p-sm-4.p-md-5(data-aos="fade-down")
+
+    p El enfoque de Desarrollo a Escala Humana (DEH) propone una forma de comprender el desarrollo centrada en las personas y en su bienestar. Desde esta perspectiva, el desarrollo no se mide únicamente por lo económico, sino por las oportunidades que tienen las personas para satisfacer sus necesidades y mejorar su calidad de vida.
+
+    p Este enfoque resalta que existe una relación directa entre el bienestar y la forma en que se satisfacen las necesidades humanas. Estas necesidades incluyen aspectos:
+
+    .row.mt-4.justify-content-center
+      .col-lg-5
+        figure(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema2/1.png')
+        
+        p.mt-2 • Tangibles, como la alimentación o la vivienda.
+
+      .col-lg-5
+        figure(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema2/2.png')
+        
+        p.mt-2 • Intangibles, como el afecto, la participación y el aprendizaje.
+
+
+    .row.justify-content-center.mt-4
+      .col-lg-10
+        .row.align-items-center
+          .col-lg-12
+            .cajon.color2.p-4
+              p Las necesidades humanas fundamentales son universales; es decir, todas las personas las tienen, sin importar el lugar o la época. A lo largo de la historia, han estado presentes necesidades como la subsistencia, la protección, el afecto y la participación. Con el tiempo, otras como la identidad y la libertad han adquirido mayor relevancia en la forma en que las personas construyen su vida.
+
+        p.mt-4 Aunque las necesidades son las mismas, la manera de satisfacerlas cambia según el contexto. Por ejemplo, la necesidad de subsistencia es común a todas las personas, pero la forma de alimentarse o de habitar un espacio varía según las condiciones culturales, sociales y territoriales.
+
+
+    .bloque-texto-g.bloque-texto-g--inverso.bg-base.p-3.p-sm-4.p-md-5.mt-4
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img_1.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/3.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Este proceso adopta el Enfoque de Desarrollo a Escala Humana (DEH) de Max-Neef (1993) como eje articulador. Este enfoque destaca el papel central de las necesidades humanas, tanto como objetivo del desarrollo, como para evidenciar sus carencias. En ambos casos, se pone de manifiesto relación entre la calidad de vida y la satisfacción de las necesidades humanas, que incluyen aspectos tangibles, como el acceso a alimentos y vivienda, e intangibles, como la participación y el aprendizaje. Desde esta perspectiva, el desarrollo socioeconómico se evalúa en función de las oportunidades que las personas tienen para llevar una vida plena y saludable, mediante la satisfacción integral de estas necesidades, de ahí la importancia de estas y la necesidad de desarrollar en el componente sus características. 
+        p.mb-0 En Colombia, estas diferencias se evidencian en la vida cotidiana. La alimentación en la Región Caribe es distinta a la de comunidades en zonas rurales o selváticas, así como las formas de vivienda cambian según el clima, el territorio y las costumbres. Esto muestra que el desarrollo no depende de tener más bienes, sino de contar con condiciones que permitan satisfacer las necesidades de manera adecuada.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
-      .col-lg-10.col-12.mb-lg-3.mb-4
-        p.mb-4 Las necesidades humanas fundamentales son universales, siempre han sido esenciales para el ser humano. Desde los primeros homínidos, se reconocen necesidades como subsistencia, protección, afecto y participación. Con el tiempo, surgieron otras, como la identidad y la libertad, que hoy son clave para el desarrollo humano.
-        p.mb-4 Desde estas reflexiones se puede decir que “las necesidades humanas fundamentales son las mismas en todas las culturas y en todos los períodos históricos, lo que cambia, a través del tiempo y de las culturas, es la manera o los medios utilizados para la satisfacción de las necesidades” Max-Neef (2010), citado en Romero-Varela (2019). Por ejemplo, la necesidad de subsistencia es universal, ya que todas las personas requieren alimento y abrigo para sobrevivir. Sin embargo, la forma de satisfacer estas necesidades varía según el contexto. 
-        .cajon.cajon.color-secundario.p-4
-          p.mb-0 En la región Caribe de Colombia, la alimentación es diferente comparada con las comunidades indígenas que habitan las selvas del Vichada. De igual manera, las viviendas presentan variaciones: una casa en la isla de San Andrés tiene características distintas a una en un municipio de clima frío del centro del país, adaptándose a las condiciones y necesidades propias de cada lugar.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
-      .col-lg-5.mb-lg-0.mb-4
-        figure
-          img(src='@/assets/curso/temas/tema2/img_2.png', alt='Imagen decorativa')
-      .col-lg-7
-        p.mb-2 El desarrollo no depende del dinero ni del consumo, sino de cómo se satisfacen las necesidades humanas para que cada persona pueda vivir como desea. Lo importante es que las personas tengan oportunidades para desarrollar sus capacidades. Para lograr desarrollo, no bastan leyes; 
-        .bloque-texto-d.color-primario.p-4.ps-0.pb-3.mb-4
-          .bloque-texto-d__texto.mb-2
-            i.fas.fa-quote-left(style="color:#E6D09E")
-            p Es necesario que las personas actúen según sus sueños y usen su creatividad y pensamiento crítico para ser protagonistas del cambio.
-            i.fas.fa-quote-right(style="display:none")
-          .bloque-texto-d__autor.mt-0.pt-0
-            .h5.mb-0 (Max-Neef, Elizalde, Hopenhayn, 2010, p. 30).
-              i.fas.fa-quote-right(style="color:#E6D09E")
-        p.mb-2 Se sugiere analizar el siguiente ejemplo y lo que representan las necesidades humanas:
 
-    .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-10.col-12.mb-4.mb-lg-2
+    p.mt-4 Desde este enfoque, el desarrollo implica que las personas tengan la posibilidad de tomar decisiones, construir su proyecto de vida y participar activamente en su entorno. En este sentido, no basta con la existencia de normas o programas; también es necesario que las personas fortalezcan sus capacidades, utilicen su pensamiento crítico y actúen de manera consciente frente a su realidad.
+
+    p Por ello, comprender el enfoque de Desarrollo a Escala Humana permite analizar de manera más amplia las condiciones de vida y reconocer que el bienestar se construye a partir de la relación entre las necesidades, las decisiones y las oportunidades que tienen las personas en su contexto.
+
+    p A continuación, se presenta un ejemplo que permitirá comprender de manera más concreta cómo se expresan las necesidades humanas en la vida cotidiana.
+
+
+    .row.justify-content-center.mb-4(data-aos="flip-up")
+      .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 1.</b> <i>Necesidades humanas</i>
-        figure
-          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema2/fig-1a.svg', alt='Imagen que relaciona lo que representan las necesidades humanas y explica a partir de un ejemplo su aplicación.')  
-          img.d-block.d-lg-none(src='@/assets/curso/temas/tema2/fig-1b.svg', alt='Imagen que relaciona lo que representan las necesidades humanas y explica a partir de un ejemplo su aplicación.') 
+          h5 Figura 1.
+          span Necesidades humanas 
+      .row.justify-content-center
+        .col-10
+          figure.desktop
+            img(src='@/assets/curso/temas/tema2/4.svg', alt='Imagen que relaciona lo que representan las necesidades humanas y explica a partir de un ejemplo su aplicación.')
+      .col-12
+        figure.movil
+          img(src='@/assets/curso/temas/tema2/5.svg', alt='')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       
 
 

@@ -41,8 +41,20 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Necesidades axiológicas y existenciales',
+        titulo: 'Necesidades humanas',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Necesidades axiológicas y existenciales',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Matriz de necesidades (referente general)',
+            hash: 't_3_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',

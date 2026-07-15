@@ -1,13 +1,19 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 24%
     right: 71%
-  
-@keyframes float1
+    animation: zoomInOut 3s ease-in-out infinite
+
+@keyframes zoomInOut
   0%
-    transform: scale(1.2)
+    transform: scale(1)
+
+  50%
+    transform: scale(1.15)
+
+  100%
+    transform: scale(1)
 
 // tarjetas
 .tarjeta.color
@@ -59,8 +65,17 @@
   background-color: #E6F3F3 
 .cajon.cajon3
   background-color: #F3F9FF
+
+.cajon.cajon4
+  background-color: #F8FBFF
+
 .cajon-b.color-primario:before
   background-color: $color-secundario
+
+.cajon.color2:before
+  background-color: #C2E8E8
+.cajon.color2
+  background-color: #E6F3F3
 
   
 //tablas
@@ -140,3 +155,60 @@ tbody
   tr
     td
       vertical-align: top !important
+
+
+//Estilos actualizacion 2026/// 
+
+.bg
+  &-r8
+    border-radius: 8px
+  &-1 
+    background-color: #E7EFFA
+  &-base 
+    background-color: #C2E8E8
+  &-2::before
+    background-color: #E6F3F3
+  &-3
+    background-color: #F3F9FF
+  &-4
+    background-color: #CADBF3
+  &-5
+    background-color: #FFE7AE
+  &-6
+    background-color: #D8DDE0
+
+
+.titulo-tres
+  margin-bottom: 1.5rem
+  h3
+    margin-left: 3rem
+    margin-right: 1rem
+    margin-bottom: 0
+  background-color: #E7EFFA
+  display: inline-block
+  padding: 0.5rem 1rem
+  border-radius: 1rem
+  position: relative
+  &::before
+    content: url('../assets/curso/temas/tema1/icon.svg')
+    position: absolute
+    top: 5px
+    left: 0
+    transform: translate(-10%, -15%)
+    width: 57px
+
+
+.barra-avance__boton--regresar span 
+    color: #ffffff !important
+
+// versión escritorio/movil
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
