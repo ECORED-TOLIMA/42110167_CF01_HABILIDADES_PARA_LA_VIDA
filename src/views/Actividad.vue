@@ -36,7 +36,7 @@ export default {
           mensaje_correcto:
             'El DEH se enfoca en el bienestar humano mediante la satisfacción de necesidades fundamentales, no en el crecimiento económico.',
           mensaje_incorrecto:
-            '¡No se preocupes por el error! Cada respuesta es una oportunidad para aprender y mejorar. Lo importante es seguir adelante y fortalecer los conocimientos.',
+            '¡No se preocupe por el error! Cada respuesta es una oportunidad para aprender y mejorar. Lo importante es seguir adelante y fortalecer los conocimientos.',
         },
         {
           id: 2,
@@ -51,7 +51,7 @@ export default {
           mensaje_correcto:
             'Las necesidades son las mismas, pero las formas de satisfacerlas varían según la cultura y el contexto.',
           mensaje_incorrecto:
-            '¡No se preocupes por el error! Cada respuesta es una oportunidad para aprender y mejorar. Lo importante es seguir adelante y fortalecer los conocimientos. ',
+            '¡No se preocupe por el error! Cada respuesta es una oportunidad para aprender y mejorar. Lo importante es seguir adelante y fortalecer los conocimientos. ',
         },
         {
           id: 3,
@@ -66,7 +66,7 @@ export default {
           mensaje_correcto:
             'Según Marx, el trabajo es clave para el desarrollo humano y la transformación personal.',
           mensaje_incorrecto:
-            '¡No se preocupes por el error! Cada respuesta es una oportunidad para aprender y mejorar. Lo importante es seguir adelante y fortalecer los conocimientos.',
+            '¡No se preocupe por el error! Cada respuesta es una oportunidad para aprender y mejorar. Lo importante es seguir adelante y fortalecer los conocimientos.',
         },
         {
           id: 4,
@@ -80,7 +80,7 @@ export default {
           mensaje_correcto:
             'Es sinérgico porque satisface necesidades como subsistencia, protección, afecto e identidad.',
           mensaje_incorrecto:
-            '¡No se preocupes por el error! Cada respuesta es una oportunidad para aprender y mejorar. Lo importante es seguir adelante y fortalecer los conocimientos.',
+            '¡No se preocupe por el error! Cada respuesta es una oportunidad para aprender y mejorar. Lo importante es seguir adelante y fortalecer los conocimientos.',
         },
         {
           id: 5,
@@ -95,7 +95,7 @@ export default {
           mensaje_correcto:
             'Los bienes económicos pueden potenciar o limitar la satisfacción de necesidades según su uso.',
           mensaje_incorrecto:
-            '¡No se preocupes por el error! Cada respuesta es una oportunidad para aprender y mejorar. Lo importante es seguir adelante y fortalecer los conocimientos.',
+            '¡No se preocupe por el error! Cada respuesta es una oportunidad para aprender y mejorar. Lo importante es seguir adelante y fortalecer los conocimientos.',
         },
         {
           id: 6,
@@ -110,7 +110,7 @@ export default {
           mensaje_correcto:
             'Estas competencias son esenciales para interactuar y resolver problemas en diferentes contextos.',
           mensaje_incorrecto:
-            '¡Continua no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
+            '¡Continue no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
         },
         {
           id: 7,
@@ -125,7 +125,7 @@ export default {
           mensaje_correcto:
             'Aunque aparentan satisfacer necesidades, pueden limitar su satisfacción a mediano o largo plazo.',
           mensaje_incorrecto:
-            '¡Continua no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
+            '¡Continue no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
         },
         {
           id: 8,
@@ -140,7 +140,7 @@ export default {
           mensaje_correcto:
             'Estas necesidades están relacionadas con el valor que damos a diferentes aspectos de la vida.',
           mensaje_incorrecto:
-            '¡Continua no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
+            '¡Continue no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
         },
         {
           id: 9,
@@ -155,7 +155,7 @@ export default {
           mensaje_correcto:
             "Las competencias del 'Ser' están vinculadas a aspectos emocionales y personales, como la autoestima.",
           mensaje_incorrecto:
-            '¡Continua no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
+            '¡Continue no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
         },
         {
           id: 10,
@@ -170,7 +170,7 @@ export default {
           mensaje_correcto:
             'Garantiza la biodiversidad y refleja respeto por la vida en todas sus formas.',
           mensaje_incorrecto:
-            '¡Continua no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
+            '¡Continue no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
         },
         {
           id: 11,
