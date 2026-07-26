@@ -39,7 +39,7 @@
       .row.justify-content-center
         .col-10
           figure.desktop
-            img(src='@/assets/curso/temas/tema5/2.svg', alt='Imagen que relaciona una matriz que representa de manera jerárquica las necesidades humanas, como son competencia, habilidad, destreza y conducta.')
+            img(src='@/assets/curso/temas/tema5/2.svg', alt='En la figura 2 se relaciona una matriz que representa de manera jerárquica las necesidades humanas, como son competencia, habilidad, destreza y conducta.')
           figcaption
             p.mb-0 Nota. Adaptado de Raciti (2016)
       .col-12

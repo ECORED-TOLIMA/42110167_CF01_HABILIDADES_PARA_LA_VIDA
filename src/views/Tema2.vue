@@ -59,7 +59,7 @@
       .row.justify-content-center
         .col-10
           figure.desktop
-            img(src='@/assets/curso/temas/tema2/4.svg', alt='Imagen que relaciona lo que representan las necesidades humanas y explica a partir de un ejemplo su aplicación.')
+            img(src='@/assets/curso/temas/tema2/4.svg', alt='En la figura 1 se relaciona lo que representan las necesidades humanas y explica a partir de un ejemplo su aplicación.')
       .col-12
         figure.movil
           img(src='@/assets/curso/temas/tema2/5.svg', alt='')
