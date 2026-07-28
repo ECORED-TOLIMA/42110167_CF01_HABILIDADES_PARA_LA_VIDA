@@ -78,7 +78,7 @@
 
           div.p-4(numero="3" titulo="Inhibidores")
             p Son aquellos que por el modo en que satisfacen (generalmente sobre satisfacen) una necesidad determinada, dificultan seriamente la posibilidad de satisfacer otras necesidades.
-            .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
+            .titulo-sexto.color-acento-contenido
               p.pb-0.mb-0 <b>Tabla 4. </b> Satisfactor inhibidor y necesidad satisfecha
             .tabla-a.color-acento-contenido
               table(alt="Tabla que relaciona lo que tiene que ver con los satisfactores inhibidores y las necesidades satisfechas que los representan.")
@@ -99,7 +99,7 @@
 
           div.p-4(numero="4" titulo="Seudosatisfactores")
             p Son elementos que estimulan una falsa sensación de satisfacción de una necesidad determinada. Sin la agresividad de los violadores o destructores, pueden en ocasiones aniquilar en un plazo mediano, la posibilidad de satisfacer la necesidad a que originalmente apuntan. 
-            .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
+            .titulo-sexto.color-acento-contenido
               p.mb-0.mb-0 <b>Tabla 5. </b> Ejemplo de seudo satisfactor
             .tabla-a.color-acento-contenido
               table(alt="Tabla que relaciona lo que tiene que ver con los satisfactores seudosatisfactores y las necesidades satisfechas que los representan.")
@@ -117,7 +117,7 @@
 
           div.p-4(numero="5" titulo="Violadores o destructores")
             p Son satisfactores que, al ser aplicados con la intención de satisfacer una determinada necesidad, no sólo aniquilan la posibilidad de su satisfacción en un plazo mediato, sino que imposibilitan, por sus efectos colaterales, la satisfacción adecuada de otras necesidades. 
-            .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
+            .titulo-sexto.color-acento-contenido
               p.mb-0.mb-0 <b>Tabla 6. </b> Ejemplo de violadores o satisfactores
             .tabla-a.color-acento-contenido
               table(alt="Tabla que relaciona lo que tiene que ver con los satisfactores violadores o destructores y las necesidades satisfechas que los representan.")
